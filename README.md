@@ -9,6 +9,11 @@ This project implements an intelligent fraud detection system using agentic prin
 - **Adaptive Learning**: Implements retraining loops based on performance metrics
 - **Comprehensive Evaluation**: Includes metrics tailored for imbalanced fraud detection
 
+## Recent Updates
+- Implemented Optuna for hyperparameter optimization
+- Improved training performance
+
+  
 ## Model Implementations
 
 ### 1. Decision Tree Pipeline (agent_dtree.ipynb)
